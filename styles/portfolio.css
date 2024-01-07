@@ -90,10 +90,21 @@ nav a{
     font-weight: 700px;
 }
 /* main section styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
 /* about section styles */
 .about{
     padding: 130px;
     border-radius: 10px;
-    background-color: rgb(14, 15, 14);
+    background-color: rgb(0, 222, 0);
     margin: 130px 0;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about-info{
+    text-align: center;
 }
