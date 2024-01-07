@@ -23,7 +23,7 @@ body{
 
 }
 .section-description{
-    color: #efeaea9a;
+    color: #0e0e0e9a;
     text-align: center;
     font-family: open sans;
     font-size: 18px;
@@ -98,7 +98,7 @@ main{
 .about{
     padding: 130px;
     border-radius: 10px;
-    background-color: rgb(0, 222, 0);
+    background-color: beige;
     margin: 130px 0;
 }
 .about-info-container{
@@ -107,4 +107,7 @@ main{
 }
 .about-info{
     text-align: center;
+}
+#what-i-do-description{
+    padding: 30px 150px;
 }
